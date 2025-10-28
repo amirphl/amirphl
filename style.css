@@ -1,0 +1,88 @@
+:root {
+  --bg: #0d1117;
+  --text: #c9d1d9;
+  --accent: #58a6ff;
+  --header-bg: #161b22;
+  --font: 'Inter', sans-serif;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  line-height: 1.6;
+}
+
+header {
+  text-align: center;
+  background: var(--header-bg);
+  padding: 3rem 1rem;
+  border-bottom: 1px solid #30363d;
+}
+
+header h1 {
+  font-size: 2.2rem;
+  margin-bottom: 0.3rem;
+  color: white;
+}
+
+header p {
+  font-size: 1.1rem;
+  margin-bottom: 1rem;
+}
+
+.social-links a {
+  margin: 0 0.5rem;
+  color: var(--accent);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+section {
+  margin-bottom: 2.5rem;
+}
+
+h2 {
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 0.3rem;
+  margin-bottom: 1rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 1rem;
+}
+
+.experience-item h3 {
+  margin-bottom: 0.3rem;
+  color: white;
+}
+
+.experience-item span {
+  color: #8b949e;
+  font-weight: normal;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  border-top: 1px solid #30363d;
+  font-size: 0.9rem;
+  color: #8b949e;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
