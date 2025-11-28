@@ -65,7 +65,7 @@ These projects demonstrate my ability to work on diverse technical challenges, f
 
 ## Work Experience
 
-- **Senior Software Engineer at [Decimetr](https://decimetr.ir/) (May 2024 - Apr 2025)**  
+- **Software Engineer at [Decimetr](https://decimetr.ir/) (May 2024 - Apr 2025)**  
   - Developed critical microservices for a fintech platform, including real estate micro-investment transactions and market data analysis.  
   - Implemented an order matching engine using advanced data structures like Radix trees.  
   - Ensured message idempotency in a Kafka-based system.  
