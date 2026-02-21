@@ -1,10 +1,10 @@
 # Amir Pirhosseinloo
 
-**Highly Motivated and Innovative Software Engineer | Passionate about Fintech, Trading, and Blockchain | Dedicated to Collaborative Problem-Solving and Delivering High-Quality Solutions**
+**Fintech, Quant Finance, DeFi, Trading, and Blockchain**
 
 ## About Me
 
-Hi! I'm Amir Pirhosseinloo, a software engineer with a strong focus on fintech, trading, and blockchain. I have a proven track record of developing high-performance solutions, from order matching engines to trading bots, and I'm always eager to tackle complex challenges. With a background in both industry and academia, I bring a blend of practical experience and theoretical knowledge to every project.
+Hi! I'm Amir Pirhosseinloo, a software engineer with a strong focus on fintech, quant finance, trading, and blockchain. I have a proven track record of developing high-performance solutions, from order matching engines to trading bots, and I'm always eager to tackle complex challenges. With a background in both industry and academia, I bring a blend of practical experience and theoretical knowledge to every project.
 
 - **Location**: Iran
 - **Email**: [amirphl4 [@t] gmail.com](mailto:amirphl4@gmail.com)
