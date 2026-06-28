@@ -1,126 +1,309 @@
 # Amir Pirhosseinloo
 
-**Fintech, Quant Finance, DeFi, Trading, and Blockchain**
+**Quant Developer | Derivatives Pricing | HFT Systems | Statistical Arbitrage | Fintech Infrastructure**
 
-## About Me
+## Profile
 
-Hi! I'm Amir Pirhosseinloo, a software engineer with a strong focus on fintech, quant finance, trading, and blockchain. I have a proven track record of developing high-performance solutions, from order matching engines to trading bots, and I'm always eager to tackle complex challenges. With a background in both industry and academia, I bring a blend of practical experience and theoretical knowledge to every project.
+Software engineer focused on quantitative finance, derivatives pricing, trading systems, market infrastructure, and high-performance financial software. Experienced in building order matching engines, crypto trading frameworks, market-data workflows, distributed services, and performance-sensitive backend systems.
 
-- **Location**: Iran
-- **Email**: [amirphl4 [@t] gmail.com](mailto:amirphl4@gmail.com)
-- **LinkedIn**: [linkedin.com/in/amir-pirhosseinloo](https://www.linkedin.com/in/amir-pirhosseinloo/)
-- **GitHub**: [github.com/amirphl](https://github.com/amirphl)
+I am actively transitioning toward quantitative finance roles, especially **derivatives pricing**, **HFT/low-latency trading systems**, **statistical arbitrage**, and **quantitative research engineering**. My current preparation combines production-grade software engineering with graduate-level study in probability, stochastic calculus, numerical methods, PDEs, and option pricing.
 
-## Skills
+* **Location**: Iran
+* **Email**: [amirphl4 [@t] gmail.com](mailto:amirphl4@gmail.com)
+* **LinkedIn**: [linkedin.com/in/amir-pirhosseinloo](https://www.linkedin.com/in/amir-pirhosseinloo/)
+* **GitHub**: [github.com/amirphl](https://github.com/amirphl)
 
-| Category                | Skills                                                                 |
-|---------------------------|----------------------------------------------------------------------|
-| **Programming Languages** | Golang, C++, Python, (Rust, soon)                                    |
-| **Databases & Messaging** | PostgreSQL, Kafka, Redis                                             |
-| **Frameworks**            | Fiber, Boost                                                         |
-| **DevOps**                | CI/CD, Docker, Nginx, Kubernetes                                     |
-| **Other Skills**          | Algorithm Design, Data Structures, REST APIs, Websocket, gRPC, Linux, Git, Agile Methodologies, Testing |
+---
 
-## Projects
+## Target Roles
 
-Here are some of my key projects that demonstrate my expertise in software engineering, fintech, and trading:
+* Quant Developer
+* Quant Research Engineer
+* Derivatives Pricing Engineer
+* HFT / Low-Latency Trading Engineer
+* Statistical Arbitrage / Systematic Trading Developer
+* Market Infrastructure Engineer
 
-- **matching-engine** ([GitHub](https://github.com/amirphl/matching-engine))  
-  - An order matching engine implemented in Golang, inspired by exchange-core.  
-  - Features: Market and limit order support, journaling for data consistency, and plans for optimization using Radix trees.  
-  - Used in open-source contributions and professional work at Decimetr.
+---
 
-- **cipher-trader** ([GitHub](https://github.com/amirphl/cipherTrader))  
-  - A high-performance C++ trading framework for cryptocurrency markets.  
-  - Features: Trading strategies, arbitrage detection, database operations, and optimized for performance (e.g., 10,000+ orders/second).  
-  - Currently under heavy development, with a focus on stability and scalability.
+## Technical Skills
 
-- **simple-trader** ([GitHub](https://github.com/amirphl/simple-trader))  
-  - A robust Go-based crypto algorithmic trading bot for backtesting and live trading.  
-  - Features: Exchange integration (e.g., Wallex), advanced candle management, technical analysis (SMA, EMA, RSI, etc.), strategy engine, and risk management.  
-  - Designed for both backtesting and live trading, with support for real-time data and historical analysis.
+| Area                        | Skills                                                                                                                                         |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Programming**             | C++, Go, Python, Rust — currently learning                                                                                                     |
+| **Quant / Trading**         | Order books, matching engines, backtesting, market data, crypto markets, arbitrage detection, technical indicators, risk controls              |
+| **Quantitative Methods**    | Probability, stochastic calculus, numerical linear algebra, PDEs, option pricing, derivatives, market microstructure — currently strengthening |
+| **Performance Engineering** | Data structures, algorithm design, concurrency, profiling, low-latency system design                                                           |
+| **Data / Infrastructure**   | PostgreSQL, Kafka, Redis, Docker, Kubernetes, Linux, CI/CD                                                                                     |
+| **APIs / Systems**          | WebSocket, gRPC, REST APIs, distributed systems, idempotent event processing                                                                   |
 
-- **university-courses** ([GitHub](https://github.com/amirphl/university-courses))  
-  - A collection of materials from university courses I have completed, including notes and assignments.  
-  - Relevant for showcasing academic rigor and coursework in software engineering.
+---
 
-- **learning** ([GitHub](https://github.com/amirphl/learning))  
-  - A repository where I document everything I learn, primarily in C++.  
-  - Useful for tracking personal growth and exploring new concepts.
+## Quantitative Finance Preparation
 
-- **atlas** ([GitHub](https://github.com/amirphl/atlas))  
-  - A curated list of technology-related references and resources.  
-  - Includes links to tools, tutorials, and other valuable materials for developers.
+I am currently following a structured graduate-level study path for derivatives pricing, stochastic processes, and systematic trading.
 
-Additionally, I have worked on several university projects, including:
+**Core mathematics and probability**
 
-- [Image Editor using Java Swing](https://github.com/amirphl/image-editor)
-- [Multiplayer Battleship Game with networking and multithreading](https://github.com/amirphl/battleship)
-- [Group Chat Service in Java](https://github.com/amirphl/group-chat)
-- Social Network Graph Clustering
-- [Signal Convolution Simulator](https://github.com/amirphl/Signal-Convolution-Simulator)
-- Voice Similarity Recognizer using CUDA and C++
+* Stephen Abbott — *Understanding Analysis*
+* David Williams — *Probability with Martingales*
+* Steven Shreve — *Stochastic Calculus for Finance II*
+* Lloyd Trefethen & David Bau — *Numerical Linear Algebra*
+* Lawrence C. Evans — *Partial Differential Equations*
+* Rick Durrett — *Probability: Theory and Examples*
 
-These projects demonstrate my ability to work on diverse technical challenges, from game development to machine learning.
+**Finance and derivatives**
+
+* John C. Hull — *Options, Futures, and Other Derivatives*
+* Paul Wilmott — *Paul Wilmott on Quantitative Finance*
+
+**Main study focus**
+
+* Risk-neutral pricing
+* Brownian motion and martingales
+* Black–Scholes and extensions
+* Numerical methods for pricing
+* PDE-based derivative pricing
+* Market microstructure and order-book dynamics
+* Statistical arbitrage research workflows
+
+---
+
+## Selected Finance, Trading, and Market Infrastructure Projects
+
+### matching-engine
+
+[GitHub](https://github.com/amirphl/matching-engine)
+
+Order matching engine implemented in Go, inspired by exchange-core and crypto exchange infrastructure.
+
+* Implemented core order-book functionality for market and limit orders.
+* Designed journaling support for data consistency and recovery.
+* Worked on exchange-style matching logic, order lifecycle handling, and execution flow.
+* Focused on correctness, deterministic behavior, and future performance optimization.
+* Relevant to HFT, exchange infrastructure, market microstructure, and low-latency trading systems.
+
+---
+
+### cipher-trader
+
+[GitHub](https://github.com/amirphl/cipherTrader)
+
+High-performance C++ trading framework for cryptocurrency markets.
+
+* Designed a trading framework for strategy execution, arbitrage detection, and market interaction.
+* Built components for database operations, trading logic, and performance-sensitive order processing.
+* Targeted high-throughput execution, with development focused on scalability and system reliability.
+* Relevant to systematic trading, stat arb infrastructure, and low-latency C++ financial systems.
+
+---
+
+### simple-trader
+
+[GitHub](https://github.com/amirphl/simple-trader)
+
+Go-based algorithmic trading bot for backtesting and live crypto trading.
+
+* Built a trading system with exchange integration, candle management, backtesting, and live trading support.
+* Implemented technical indicators including SMA, EMA, RSI, and related signal-generation components.
+* Added strategy execution and risk-management logic.
+* Designed the system to work with both historical and real-time market data.
+* Relevant to systematic trading, research engineering, and production trading infrastructure.
+
+---
+
+### Market Data and Fintech Infrastructure — Decimetr
+
+Professional fintech work involving transaction systems, market data analysis, and exchange-style components.
+
+* Developed fintech microservices supporting financial transactions and investment workflows.
+* Worked on market-data analysis components.
+* Implemented and contributed to order matching engine functionality.
+* Built Kafka-based systems with attention to idempotency and consistency.
+* Improved Go microservice test coverage from 10% to 63%.
+* Relevant to financial infrastructure, distributed trading systems, and production-grade fintech engineering.
+
+---
+
+### Crypto / Blockchain Engineering — Mozcoin
+
+Blockchain-based game startup with crypto and digital asset components.
+
+* Founded and led development of a blockchain-based game startup.
+* Designed backend components in Python.
+* Completed the MIT Blockchain and Digital Currency course.
+* Relevant to crypto markets, digital assets, and blockchain-based financial systems.
+
+---
+
+## Additional Technical Projects
+
+### Signal Convolution Simulator
+
+[GitHub](https://github.com/amirphl/Signal-Convolution-Simulator)
+
+* Implemented a signal convolution simulator.
+* Relevant to numerical computation, signal processing, and mathematical programming.
+
+### Voice Similarity Recognizer using CUDA and C++
+
+* Built a voice similarity recognition project using GPU acceleration.
+* Relevant to high-performance numerical computing and C++/CUDA programming.
+
+### Social Network Graph Clustering
+
+* Implemented graph clustering methods.
+* Relevant to network analysis, clustering, and data-driven modeling.
+
+### university-courses
+
+[GitHub](https://github.com/amirphl/university-courses)
+
+* Repository of university coursework, notes, and assignments.
+* Includes academic work relevant to algorithms, machine learning, distributed systems, and software engineering.
+
+### learning
+
+[GitHub](https://github.com/amirphl/learning)
+
+* Repository documenting continuous learning, mainly in C++ and systems programming.
+
+---
 
 ## Work Experience
 
-- **Software Engineer at [Decimetr](https://decimetr.ir/) (May 2024 - Apr 2025)**  
-  - Developed critical microservices for a fintech platform, including real estate micro-investment transactions and market data analysis.  
-  - Implemented an order matching engine using advanced data structures like Radix trees.  
-  - Ensured message idempotency in a Kafka-based system.  
-  - Increased test coverage from 10% to 63% in Golang microservices.  
-  - Mentored 2 new backend engineers.  
-  - **Tech Stack**: Golang, C++, Kafka, Kubernetes
+### Software Engineer — Decimetr
 
-- **Software Engineer (Contract) at [Nexu](https://nexu.co/) (Dec 2023 - Apr 2024)**  
-  - Automated invoice generation and financial reporting processes.  
-  - Integrated invoicing functionality into admin and HR panels.  
-  - Streamlined financial workflows previously managed through Excel.
+**May 2024 – Apr 2025**
 
-- **Open Source Contributor - Crypto Exchange Matching Engine (Mar 2023 - Nov 2023)**  
-  - Developed an order matching engine for cryptocurrency exchanges.  
-  - Implemented market and limit order support with journaling for data consistency.  
-  - Used Golang with plans to optimize using Radix trees.
+Fintech platform focused on financial services, investment workflows, and market infrastructure.
 
-- **Founder at Mozcoin (Feb 2022 - Feb 2023)**  
-  - Led the development of a blockchain-based game startup.  
-  - Designed game UI using GDevelop and developed the backend in Python.  
-  - Completed the MIT Blockchain and Digital Currency course.
+* Developed critical financial microservices for real estate micro-investment transactions.
+* Worked on market-data analysis and transaction-processing systems.
+* Implemented and contributed to order matching engine components.
+* Ensured Kafka message idempotency in distributed financial workflows.
+* Improved Go microservice test coverage from 10% to 63%.
+* Mentored 2 backend engineers.
+* **Tech stack**: Go, C++, Kafka, Kubernetes, PostgreSQL
 
-- **Software Engineer at [Gharar](https://gharar.ir/) - [Hezardastan Group](https://hezardastan.ir/) (Apr 2020 - Jan 2022)**  
-  - Scaled a video conferencing application using Kubernetes, increasing concurrent users from 100 to 4000.  
-  - Reduced SQL query latencies by over 90% and improved 99th percentile response time to under 2 seconds.  
-  - Implemented performance monitoring with Prometheus and Grafana.
+---
 
-- **Software Engineer at [Cafebazaar](https://cafebazaar.ir/?l=en) - [Hezardastan Group](https://hezardastan.ir/) (Sep 2019 - Mar 2020)**  
-  - Developed HRM software using Django, with frontend in Bootstrap and jQuery.  
-  - Managed DevOps with Docker and GitLab CI.
+### Software Engineer Contractor — Nexu
 
-- **Data Engineer Intern at [Sahab](https://www.sahab.ir/) (Jul 2017 - Sep 2017)**  
-  - Collaborated on a distributed search engine using Apache Hadoop, HBase, Kafka, and Spark.
+**Dec 2023 – Apr 2024**
+
+* Automated invoice generation and financial reporting processes.
+* Integrated invoicing workflows into internal admin and HR systems.
+* Replaced manual Excel-based financial workflows with software-based reporting.
+
+---
+
+### Open Source Contributor — Crypto Exchange Matching Engine
+
+**Mar 2023 – Nov 2023**
+
+* Developed an order matching engine for cryptocurrency exchange infrastructure.
+* Implemented market and limit order handling.
+* Added journaling for consistency and recovery.
+* Worked with Go and exchange-style order-book architecture.
+
+---
+
+### Founder — Mozcoin
+
+**Feb 2022 – Feb 2023**
+
+* Founded a blockchain-based game startup.
+* Designed product logic, backend architecture, and blockchain-related components.
+* Completed the MIT Blockchain and Digital Currency course.
+* Built backend components in Python.
+
+---
+
+### Software Engineer — Gharar, Hezardastan Group
+
+**Apr 2020 – Jan 2022**
+
+Performance and infrastructure engineering for a large-scale video conferencing platform.
+
+* Scaled the platform from 100 to 4,000 concurrent users.
+* Reduced SQL query latency by more than 90%.
+* Improved 99th percentile response time to under 2 seconds.
+* Worked with Kubernetes, monitoring, and production performance optimization.
+* Relevant to high-performance distributed systems and production reliability.
+
+---
+
+### Software Engineer — Cafebazaar, Hezardastan Group
+
+**Sep 2019 – Mar 2020**
+
+* Developed internal software systems using Django.
+* Worked on Docker-based deployment and GitLab CI workflows.
+* Built internal tools for HR and operations.
+
+---
+
+### Data Engineer Intern — Sahab
+
+**Jul 2017 – Sep 2017**
+
+* Worked on distributed search-engine infrastructure.
+* Used Apache Hadoop, HBase, Kafka, and Spark.
+* Gained experience with large-scale data processing systems.
+
+---
 
 ## Education
 
-- **Master's Degree in Software Engineering**  
-  - Shahid Beheshti University (Oct 2022 - Mar 2025)  
-  - Relevant Coursework: Blockchain, Computer Systems Performance, Advanced Networks, Distributed Systems
+### Master’s Degree in Software Engineering
 
-- **Bachelor's Degree in Software Engineering**  
-  - Amirkabir University of Technology (Sep 2016 - Sep 2020)  
-  - Graduated with a perfect GPA  
-  - Thesis: Distributed Task Execution on Mobile Edge Network  
-  - Relevant Coursework: Machine Learning, Deep Learning, Data Mining, Information Retrieval, Linear Algebra, Algorithm Design
+**Shahid Beheshti University — Oct 2022 – Mar 2025**
 
-## Interests
+Relevant coursework:
 
-- **Fintech and Trading**: Actively trading cryptocurrencies (Doge/USDT, XRP, ADA, ETH) using Martingale and Spot grid strategies.  
-- **Advanced Trading Literature**: Studying *Algorithmic Trading* by Ernest P. Chan and *Options, Futures, and Other Derivatives* by John C. Hull.  
-- **Blockchain and Cryptocurrencies**: Passionate about decentralized technologies and their applications.
+* Blockchain
+* Computer Systems Performance
+* Advanced Networks
+* Distributed Systems
 
-## Connect with Me
+---
 
-- **Email**: [amirphl4 [@t] gmail.com](mailto:amirphl4@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/amir-pirhosseinloo](https://www.linkedin.com/in/amir-pirhosseinloo/)  
-- **GitHub**: [github.com/amirphl](https://github.com/amirphl)  
-- **X (Twitter)**: [@PhlAmir](https://twitter.com/PhlAmir)
+### Bachelor’s Degree in Software Engineering
+
+**Amirkabir University of Technology — Sep 2016 – Sep 2020**
+
+* Graduated with a perfect GPA.
+* Thesis: Distributed Task Execution on Mobile Edge Network.
+
+Relevant coursework:
+
+* Machine Learning
+* Deep Learning
+* Data Mining
+* Information Retrieval
+* Linear Algebra
+* Algorithm Design
+
+---
+
+## Research and Career Interests
+
+* Derivatives pricing
+* Stochastic calculus in finance
+* Black–Scholes, local volatility, stochastic volatility, and numerical pricing methods
+* Statistical arbitrage
+* HFT infrastructure and exchange systems
+* Market microstructure
+* Crypto market making and systematic trading
+* Low-latency C++ trading systems
+* Quant research engineering
+
+---
+
+## Connect
+
+* **Email**: [amirphl4 [@t] gmail.com](mailto:amirphl4@gmail.com)
+* **LinkedIn**: [linkedin.com/in/amir-pirhosseinloo](https://www.linkedin.com/in/amir-pirhosseinloo/)
+* **GitHub**: [github.com/amirphl](https://github.com/amirphl)
+* **X / Twitter**: [@PhlAmir](https://twitter.com/PhlAmir)
