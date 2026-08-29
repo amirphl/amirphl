@@ -41,28 +41,16 @@ Core references include Williams, Shreve, Hull, Trefethen & Bau, Evans, Durrett,
 
 ## Experience
 
-### Software Engineer — Decimetr - **May 2024 – Apr 2025**
-
-### Software Engineer Contractor — Nexu - **Dec 2023 – Apr 2024**
-
-### Founder — Mozcoin - **Feb 2022 – Feb 2023**
-
-Founded a blockchain-based game startup.
-
-### Software Engineer — Gharar, Hezardastan Group - **Apr 2020 – Jan 2022**
-
-### Software Engineer — Cafebazaar, Hezardastan Group - **Sep 2019 – Mar 2020**
-
-### Data Engineer Intern — Sahab - **Jul 2017 – Sep 2017**
+* Software Engineer              — Decimetr                      — May 2024 – Apr 2025
+* Software Engineer (Contractor) — Nexu                          — Dec 2023 – Apr 2024
+* Founder                        — Mozcoin                       — Feb 2022 – Feb 2023
+* Software Engineer              — Gharar, Hezardastan Group     — Apr 2020 – Jan 2022
+* Software Engineer              — Cafebazaar, Hezardastan Group — Sep 2019 – Mar 2020
+* Data Engineer Intern            — Sahab — Jul 2017             – Sep 2017
 
 ---
 
 ## Education
 
-### M.Sc. Software Engineering
-
-**Shahid Beheshti University · 2022–2025**
-
-### B.Sc. Software Engineering
-
-**Amirkabir University of Technology · 2016–2020**
+* M.Sc. Software Engineering — Shahid Beheshti University         · 2022–2025
+* B.Sc. Software Engineering — Amirkabir University of Technology · 2016–2020
