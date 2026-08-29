@@ -39,65 +39,21 @@ Core references include Williams, Shreve, Hull, Trefethen & Bau, Evans, Durrett,
 
 ---
 
-## Selected Trading & Quant Projects
-
-### matching-engine
-
-**Go · Exchange Infrastructure · Order Books**
-
-Order matching engine inspired by cryptocurrency exchange infrastructure.
-
-GitHub: github.com/amirphl/matching-engine
-
-### cipher-trader
-
-**C++ · Systematic Trading · Arbitrage**
-
-High-performance cryptocurrency trading framework.
-
-GitHub: github.com/amirphl/cipherTrader
-
-### simple-trader
-
-**Go · Backtesting · Live Trading**
-
-GitHub: github.com/amirphl/simple-trader
-
----
-
 ## Experience
 
-### Software Engineer — Decimetr
+### Software Engineer — Decimetr - **May 2024 – Apr 2025**
 
-**May 2024 – Apr 2025**
+### Software Engineer Contractor — Nexu - **Dec 2023 – Apr 2024**
 
-Fintech engineering across financial transactions, investment workflows, and market infrastructure.
-
-### Software Engineer Contractor — Nexu
-
-**Dec 2023 – Apr 2024**
-
-### Founder — Mozcoin
-
-**Feb 2022 – Feb 2023**
+### Founder — Mozcoin - **Feb 2022 – Feb 2023**
 
 Founded a blockchain-based game startup.
 
-### Software Engineer — Gharar, Hezardastan Group
+### Software Engineer — Gharar, Hezardastan Group - **Apr 2020 – Jan 2022**
 
-**Apr 2020 – Jan 2022**
+### Software Engineer — Cafebazaar, Hezardastan Group - **Sep 2019 – Mar 2020**
 
-Performance and infrastructure engineering for a large-scale video conferencing platform.
-
-### Software Engineer — Cafebazaar, Hezardastan Group
-
-**Sep 2019 – Mar 2020**
-
-### Data Engineer Intern — Sahab
-
-**Jul 2017 – Sep 2017**
-
-Worked with Hadoop, HBase, Kafka, and Spark on distributed search and large-scale data-processing infrastructure.
+### Data Engineer Intern — Sahab - **Jul 2017 – Sep 2017**
 
 ---
 
@@ -107,18 +63,6 @@ Worked with Hadoop, HBase, Kafka, and Spark on distributed search and large-scal
 
 **Shahid Beheshti University · 2022–2025**
 
-Relevant study: Computer Systems Performance, Distributed Systems, Advanced Networks, Blockchain.
-
 ### B.Sc. Software Engineering
 
 **Amirkabir University of Technology · 2016–2020**
-
-Graduated with a **perfect GPA**.
-Thesis: *Distributed Task Execution on Mobile Edge Network.*
-
-Relevant study: Machine Learning, Deep Learning, Linear Algebra, Algorithms.
-
----
-
-GitHub: **github.com/amirphl**
-LinkedIn: **linkedin.com/in/amir-pirhosseinloo**
